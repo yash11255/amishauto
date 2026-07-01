@@ -150,7 +150,7 @@ export default function MaintenancePage() {
           style={{ color: "var(--muted)" }}
         >
           <a
-            href="mailto:hello@amishauto.in"
+            href="mailto:atul@amishautoindia.com"
             className="flex items-center gap-2 transition-colors"
             style={{ color: "var(--muted)" }}
             onMouseEnter={(e) => (e.currentTarget.style.color = "var(--accent)")}
@@ -160,11 +160,11 @@ export default function MaintenancePage() {
               <rect x="2" y="4" width="20" height="16" rx="2" />
               <path d="m22 7-8.97 5.7a1.94 1.94 0 01-2.06 0L2 7" />
             </svg>
-            hello@amishauto.in
+            atul@amishautoindia.com
           </a>
           <span className="hidden sm:block" style={{ opacity: 0.2 }}>|</span>
           <a
-            href="tel:+91"
+            href="tel:+918618912266"
             className="flex items-center gap-2 transition-colors"
             style={{ color: "var(--muted)" }}
             onMouseEnter={(e) => (e.currentTarget.style.color = "var(--accent)")}
@@ -173,7 +173,7 @@ export default function MaintenancePage() {
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">
               <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.8 19.79 19.79 0 01.01 1.17 2 2 0 012 .01h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z" />
             </svg>
-            Get in touch
+            +91 86189 12266
           </a>
         </div>
       </main>
